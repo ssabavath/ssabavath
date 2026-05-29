@@ -90,6 +90,9 @@ Developed a complete pipeline using Python, MySQL, and Streamlit:
 - Intermediate SQL Server
 - ESG Virtual Experience Program
 - Data Analytics
+- Joining data with pandas
+- Exploratory data analysis in python
+- data manipulation with pandas
 
 ## Connect With Me
 
